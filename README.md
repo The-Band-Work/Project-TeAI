@@ -9,7 +9,11 @@ Carl's summary of the project: A botlator that is a device that translates the A
 ### 2021-07-12 Meeting (upcoming)
 
 - [x] Rename from TeamAI to ProjectAI
-- Plan
+- Working Plan
+  - Goals
+    - Move towards solutions and business model
+    - Move towards focus
+  - Hold weekly 1 hour touch base about our project
   - (1) botlater 
     - Research the options on the market 
   - (2) input into botlator, sub-activity is saito’s device
