@@ -19,7 +19,7 @@ Carl's summary of the project: A botlator that is a device that translates the A
     - add file to collect work [botlater.md](botlater.md)
   - (2) input into botlator, sub-activity is saito’s device
     - Research the options on the market
-    - add file to collect work [botlater-inpu.md](botlater-input.md)
+    - add file to collect work [botlater-input.md](botlater-input.md)
   - (3) Work with ProjectTGBG on AI required activities
     - UCSD needs AI
     - add file to collect work [ai.md](ai.md)
