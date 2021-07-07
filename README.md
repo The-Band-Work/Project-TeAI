@@ -16,6 +16,7 @@ Carl's summary of the project: A botlator that is a device that translates the A
   - Hold weekly 1 hour touch base about our project
   - (1) botlater 
     - Research the options on the market 
+    - add file [botlater.md](botlater.md)
   - (2) input into botlator, sub-activity is saito’s device
     - Research the options on the market
   - (3) Work with ProjectTGBG on AI required activities
